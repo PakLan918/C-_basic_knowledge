@@ -157,6 +157,7 @@
     <ClInclude Include="basic25_struct_nested.h" />
     <ClInclude Include="basic26_struct_function.h" />
     <ClInclude Include="basic27_struct_const.h" />
+    <ClInclude Include="basic28_struct_example1.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

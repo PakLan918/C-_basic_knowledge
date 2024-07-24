@@ -27,6 +27,7 @@ using namespace std;
 #include"basic25_struct_nested.h"
 #include"basic26_struct_function.h"
 #include"basic27_struct_const.h"
+#include"basic28_struct_example1.h"
 
 
 int main()
@@ -68,7 +69,8 @@ int main()
 	//basic24();
 	//basic25();
 	//basic26();
-	basic27();
+	//basic27();
+	basic28();
 
 	system("pause");
 	return 0;

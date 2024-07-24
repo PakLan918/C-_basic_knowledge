@@ -119,5 +119,8 @@
     <ClInclude Include="basic27_struct_const.h">
       <Filter>头文件\struct</Filter>
     </ClInclude>
+    <ClInclude Include="basic28_struct_example1.h">
+      <Filter>头文件\struct</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
