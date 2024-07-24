@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="头文件\data_operator">
+      <UniqueIdentifier>{e903662f-9bd5-4cdd-a636-1f395a76f9f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\array">
+      <UniqueIdentifier>{d5809b66-4ebf-4a74-a63a-5728cacc0384}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\function">
+      <UniqueIdentifier>{894a5246-cfa0-434d-972f-18fc5034a7e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\program_structure">
+      <UniqueIdentifier>{a62c4997-8efc-4da6-a275-cf9797c8d909}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\pointer">
+      <UniqueIdentifier>{e72a895f-c325-423a-bf9c-34866dcd7eb4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\struct">
+      <UniqueIdentifier>{d2a477c9-f500-4a97-b6d6-c63c31196ef4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="basic01_datatype.h">
+      <Filter>头文件\data_operator</Filter>
+    </ClInclude>
+    <ClInclude Include="basic02_operator.h">
+      <Filter>头文件\data_operator</Filter>
+    </ClInclude>
+    <ClInclude Include="basic03_selectstructure.h">
+      <Filter>头文件\program_structure</Filter>
+    </ClInclude>
+    <ClInclude Include="basic04_cyclestructure_while.h">
+      <Filter>头文件\program_structure</Filter>
+    </ClInclude>
+    <ClInclude Include="basic05_cyclestructure_dowhile.h">
+      <Filter>头文件\program_structure</Filter>
+    </ClInclude>
+    <ClInclude Include="basic06_cyclestructure_for.h">
+      <Filter>头文件\program_structure</Filter>
+    </ClInclude>
+    <ClInclude Include="basic07_cyclestructure_nestedloop.h">
+      <Filter>头文件\program_structure</Filter>
+    </ClInclude>
+    <ClInclude Include="basic08_jumpstatement.h">
+      <Filter>头文件\program_structure</Filter>
+    </ClInclude>
+    <ClInclude Include="basic09_array.h">
+      <Filter>头文件\array</Filter>
+    </ClInclude>
+    <ClInclude Include="basic10_array_example.h">
+      <Filter>头文件\array</Filter>
+    </ClInclude>
+    <ClInclude Include="basic11_array_bubblesort.h">
+      <Filter>头文件\array</Filter>
+    </ClInclude>
+    <ClInclude Include="basic12_array_2d.h">
+      <Filter>头文件\array</Filter>
+    </ClInclude>
+    <ClInclude Include="basic13_function.h">
+      <Filter>头文件\function</Filter>
+    </ClInclude>
+    <ClInclude Include="basic14_function_PassByValue.h">
+      <Filter>头文件\function</Filter>
+    </ClInclude>
+    <ClInclude Include="basic15_function_file_edit.h">
+      <Filter>头文件\function</Filter>
+    </ClInclude>
+    <ClInclude Include="basic16_pointer.h">
+      <Filter>头文件\pointer</Filter>
+    </ClInclude>
+    <ClInclude Include="basic17_pointer_NULLandWild.h">
+      <Filter>头文件\pointer</Filter>
+    </ClInclude>
+    <ClInclude Include="basic18_pointer_constPointer.h">
+      <Filter>头文件\pointer</Filter>
+    </ClInclude>
+    <ClInclude Include="basic19_pointer_array.h">
+      <Filter>头文件\pointer</Filter>
+    </ClInclude>
+    <ClInclude Include="basic20_pointer_function.h">
+      <Filter>头文件\pointer</Filter>
+    </ClInclude>
+    <ClInclude Include="basic21_pointer_array_function.h">
+      <Filter>头文件\pointer</Filter>
+    </ClInclude>
+    <ClInclude Include="basic22_struct.h">
+      <Filter>头文件\struct</Filter>
+    </ClInclude>
+    <ClInclude Include="basic23_struct_array.h">
+      <Filter>头文件\struct</Filter>
+    </ClInclude>
+    <ClInclude Include="basic24_struct_pointer.h">
+      <Filter>头文件\struct</Filter>
+    </ClInclude>
+    <ClInclude Include="basic25_struct_nested.h">
+      <Filter>头文件\struct</Filter>
+    </ClInclude>
+    <ClInclude Include="basic26_struct_function.h">
+      <Filter>头文件\struct</Filter>
+    </ClInclude>
+    <ClInclude Include="basic27_struct_const.h">
+      <Filter>头文件\struct</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
